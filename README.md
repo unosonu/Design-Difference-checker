@@ -30,7 +30,7 @@ Design difference checker a.k.a `DesignDiff` A lightweight GUI tool compares two
 
 ### 🧳 End Users (Prebuilt App)
 
-Download from the [Releases]([https://github.com/your-username/designDiff/releases](https://github.com/unosonu/Design-Difference-checker/releases/download/v1.0.0/design_diff.2.zip)) page:
+Download from the [Releases page](https://github.com/unosonu/Design-Difference-checker/releases) or [download directly](https://github.com/unosonu/Design-Difference-checker/releases/download/v1.0.0/design_diff.2.zip).
 
 - `DesignDiff.2.app` (macOS)
 
